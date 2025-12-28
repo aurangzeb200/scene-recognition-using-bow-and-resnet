@@ -1,9 +1,3 @@
-# Name : Aurangzeb
-# Roll Number : BSAI23021 
-# Assignment : 3
-
-
-
 #This function will predict the category for every test image by finding
 #the training image with most similar features. Instead of 1 nearest
 #neighbor, you can vote based on k nearest neighbors which will increase

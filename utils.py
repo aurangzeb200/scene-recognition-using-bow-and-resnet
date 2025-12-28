@@ -1,7 +1,3 @@
-# Name : Aurangzeb
-# Roll Number : BSAI23021
-# Assignment : 3
-
 import matplotlib.pyplot as plt
 from sklearn.metrics import f1_score
 from sklearn.metrics import confusion_matrix

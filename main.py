@@ -1,9 +1,3 @@
-# Name : Aurangzeb
-# Roll Number : BSAI23021
-# Assignment : 3
-
-
-
 # before running this make visualize = false in get_bag_of_sift function
 # it is made inside the result folder (can be either of any 4 pipeline) named visualization_train 
 

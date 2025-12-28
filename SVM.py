@@ -1,8 +1,3 @@
-# Name : Aurangzeb
-# Roll Number : BSAI23021 
-# Assignment : 3
-
-
 #This function will train a linear SVM for every category (i.e. one vs all)
 #and then use the learned linear classifiers to predict the category of
 #every test image. Every test feature will be evaluated with all SVMs

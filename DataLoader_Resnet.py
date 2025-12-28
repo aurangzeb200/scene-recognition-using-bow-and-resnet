@@ -1,9 +1,3 @@
-# Name : Aurangzeb
-# Roll Number : BSAI23021 
-# Assignment : 3
-
-
-
 import torch
 from torch.utils.data import Dataset
 from PIL import Image

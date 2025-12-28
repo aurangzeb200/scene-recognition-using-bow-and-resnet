@@ -1,9 +1,3 @@
-# Name : Aurangzeb
-# Roll Number : BSAI23021 
-# Assignment : 3
-
-
-
 import torch
 import torch.nn as nn
 import numpy as np

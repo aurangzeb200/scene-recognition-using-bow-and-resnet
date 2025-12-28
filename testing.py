@@ -1,7 +1,3 @@
-# Name : Aurangzeb
-# Roll Number : BSAI23021
-# Assignment : 3
-
 import os
 import pickle
 import numpy as np
