@@ -21,7 +21,7 @@ The final category is predicted by the most confident hyperplane:
 
 $$\huge \hat{C} = \arg\max_{c \in \text{Classes}} (W_c \cdot X + b_c)$$
 
-## 📂 Project Structure
+## Project Structure
 
 | File | Responsibility |
 | :--- | :--- |
@@ -31,7 +31,7 @@ $$\huge \hat{C} = \arg\max_{c \in \text{Classes}} (W_c \cdot X + b_c)$$
 | `knn.py` / `svm.py` | Implementation of classification logic. |
 | `testing.py` | Script for evaluating single or batch images. |
 
-## 📊 Performance Visualization
+## Performance Visualization
 
 <p align="center">
   <table>
@@ -41,14 +41,14 @@ $$\huge \hat{C} = \arg\max_{c \in \text{Classes}} (W_c \cdot X + b_c)$$
       <td align="center"><b>t-SNE Visualization</b></td>
     </tr>
     <tr>
-      <td><img src="results/visualizations_train/Kitchen/image_keypoints.png" width="280"></td>
-      <td><img src="results/visualizations_train/Kitchen/image_histogram.png" width="280"></td>
+      <td><img src="results/image_keypoints.png" width="280"></td>
+      <td><img src="results/image_histogram.png" width="280"></td>
       <td><img src="results/resnet_tsne.png" width="280"></td>
     </tr>
   </table>
 </p>
 
-## 🛠️ Usage
+## Usage
 
 ### Training and Evaluation
 To run the pipeline with ResNet features and an SVM classifier:
